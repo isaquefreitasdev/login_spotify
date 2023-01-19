@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:#30BF54;
+    color: white;
+    font-family:sans-serif;
+}
+main{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    
+}.caixa{
+    height: 70vh;
+    width: 400px;
+    background-color: #232426;
+    border-radius:10px;
+    margin-top: 7%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.caixa img{
+    width: 100px;
+    position: relative;
+    bottom:30%;
+    left: 25%;
+}
+
+ main p{
+    position: relative;
+    left:10px;
+    font-family: 'Gothic A1', sans-serif;
+
+
+ }
+.caixa_login{
+    position: relative;
+    bottom: 20%;
+}
+h4{
+}.content_box{
+    position: relative;
+    top:30px;
+    padding-top:10px;
+}.form_login_items{
+    margin-top:10px
+}
+
+._formlogin{
+    margin-top: 50%;    
+}input{
+    outline: none;
+    border-radius:10px;
+    height: 33px;
+    width:  200px;
+    border-color: transparent ;
+    font-family: 'Gothic A1', sans-serif;
+}
+.user_item{
+   
+}
+#check_login_every_day{
+    width: 20px;
+
+}
+#button_sign{
+    background-color: #369AD9;
+    color:#D9D9D9
+}
